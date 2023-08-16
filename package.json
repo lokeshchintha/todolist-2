@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This is repository for project todo list using react",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "lokesh",
+  "license": "ISC"
 }
